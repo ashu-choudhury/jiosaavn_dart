@@ -2,7 +2,7 @@ name: jiosaavn_dart
 description: A powerful Dart wrapper for JioSaavn, allowing developers to search songs, fetch albums and playlists, access lyrics, and decrypt media URLs effortlessly for seamless integration in music apps.
 
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/ashu-choudhury/jiosaavn_dart
 
 environment:
   sdk: ^3.11.0-25.0.dev
